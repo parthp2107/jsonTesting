@@ -62,7 +62,7 @@
     * [Untitled undefined type in Types related to tag category Schema](entities/tag-category/tagcategory-definitions-tag-properties-children-items.md)
     * [Untitled string in Types related to tag category Schema](entities/tag-category/tagcategory-properties-description.md)
     * [Untitled string in Types related to tag category Schema](entities/tag-category/tagcategory-definitions-tag-properties-description.md)
-  * [feed](entities/feed/README.md)
+  * [Feed](entities/feed/README.md)
     * [Untitled undefined type in Feed entity Schema](entities/feed/thread-properties-threadts.md)
     * [Untitled undefined type in Feed entity Schema](entities/feed/thread-definitions.md)
     * [Untitled string in Feed entity Schema](entities/feed/thread-definitions-post-properties-postts.md)
